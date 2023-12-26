@@ -1,6 +1,6 @@
 - 👋 Hi Amazing, I’m @ghaffar2405
 - 👀 I’m interested and passionate in learning about web development, during a project, collaborating, teaching, and having a career as a web developer and designer
-- 🌱 I’m currently learning WordPress, HTML & CSS, Javascript, Python, and PHP
+- 🌱 I’m currently learning and working on WordPress, HTML & CSS, Bootstrap, Javascript, React, jQuery, and Python
 - 💞️ I’m looking to learn and collaborate on any of the above web tools
 - 📫 How to reach me on Facebook @ at Ghaffar Adeyemi, Phone Number: +2347034973359
 
